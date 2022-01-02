@@ -1,0 +1,27 @@
+#sky{
+
+}
+header{
+  font-family: monospace;
+  padding-left: 20%;
+}
+#owner{
+  font-family: monospace;
+  padding-left: 40%;
+  margin-top: -4%;
+}
+.ins_img{
+  padding-left: 5%;
+}
+article{
+  float: inherit;
+  padding-left: 5%;
+  text-align: justify;
+  padding-right: 5%;
+}
+#lt_nw{
+  font-family: Gabriola;
+  font-size: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
