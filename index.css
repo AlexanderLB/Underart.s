@@ -20,9 +20,9 @@ header{
 }
 article{
   float: inherit;
-  padding-left: 2%;
+  padding-left: 2.5%;
   text-align: justify;
-  padding-right: 2%;
+  padding-right: 2.5%;
 }
 #lt_nw{
   font-family: Gabriola;
