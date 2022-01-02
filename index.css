@@ -1,11 +1,16 @@
-#sky{
+body{
+  background-color: black;
 
+  background-image: url("Blue_sky.jpg");
+  background-repeat: no-repeat;
 }
 header{
   font-family: monospace;
   padding-left: 20%;
+  color: white;
 }
 #owner{
+  color: white;
   font-family: monospace;
   padding-left: 40%;
   margin-top: -4%;
